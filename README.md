@@ -1,6 +1,6 @@
 # Homework for theme 3
 
-A new Flutter project.
+Images (flutter_svg), Slider (carousel_slider) and sorting of imports (import_sorter).
 
 ## Getting Started
 
