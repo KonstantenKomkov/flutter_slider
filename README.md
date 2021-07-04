@@ -1,4 +1,4 @@
-# first_app
+# Homework for theme 3
 
 A new Flutter project.
 
